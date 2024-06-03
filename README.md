@@ -14,11 +14,11 @@ License
 
 ### Data
 
-#### Data Sources
+#### Data Sources:
 Inflation Data: Central Reserve Bank of Peru (BCRP)
 News Articles: Various Peruvian news websites
 
-#### Data Preprocessing
+#### Data Preprocessing:
 The data preprocessing steps include:
 Cleaning and formatting the inflation data.
 
@@ -33,6 +33,6 @@ Macroeconomic Random Forest
 
 For each model, I create two versions: one that includes the sentiment news index and one that does not. This allows me to compare the performance and determine the impact of the sentiment index on inflation prediction.
 
-Results
+### Results
 
 The results section provides a detailed comparison of the model performances, including accuracy metrics and visualizations of predicted vs. actual inflation rates. I also analyze the significance of the sentiment news index in improving the prediction accuracy.
