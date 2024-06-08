@@ -14,9 +14,7 @@ News Articles: Various Peruvian news websites
 
 #### Data Preprocessing:
 
-The data preprocessing steps include:
-
-Cleaning and formatting the inflation data.
+The data preprocessing steps include: Cleaning and formatting the inflation data.
 
 ### Models
 
